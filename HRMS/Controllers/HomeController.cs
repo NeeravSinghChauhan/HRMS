@@ -17,7 +17,7 @@ namespace HRMS.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page.Neerav";
 
             return View();
         }
